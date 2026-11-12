@@ -4,7 +4,9 @@ Global Solution 2026.2 · CitizenTech · Cognitive Computing, Computer Vision an
 
 **Integrantes e RMs**  
 Diogo Witzel - RM552754
+
 Lucas Domingues - RM553304
+
 Victor Morelli - RM553338
 
 O projeto conta veículos que cruzam as linhas marcadas em duas rodovias reais, em um único vídeo de 29 segundos. A contagem pode apoiar estudos de fluxo viário e mostrar o efeito da iluminação sobre uma câmera de monitoramento.
