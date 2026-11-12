@@ -1,0 +1,4 @@
+periodo,contagem_referencia,contagem_atual,erro_absoluto,pares_ate_3_quadros,maior_diferenca_quadros
+dia,15,15,0,15,3
+noite,6,6,0,6,0
+total,21,21,0,21,3
