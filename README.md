@@ -1,6 +1,5 @@
 # Contagem de veículos · dia e noite
 
-Global Solution 2026.2 · CitizenTech · Cognitive Computing, Computer Vision and IoT Systems
 
 **Integrantes e RMs**  
 Diogo Witzel - RM552754
